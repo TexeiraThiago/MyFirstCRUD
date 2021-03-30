@@ -1,0 +1,16 @@
+.dButton {
+  color: white;
+  background-color: darkred;
+  font-weight: bold;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
